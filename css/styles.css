@@ -9773,6 +9773,11 @@ button.bg-dark:focus {
 .text-uppercase {
   text-transform: uppercase !important;
 }
+.text-shadow {
+  text-shadow: 2px 2px #000000;
+}
+
+
 
 .text-capitalize {
   text-transform: capitalize !important;
